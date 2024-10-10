@@ -1,0 +1,10 @@
+<?xml version = "0.1"?>
+<company>
+    <director>
+        <name> Le Van Duc </name>
+    </director>
+    <address>179 Vinh Hung </address>
+    <phonenumbers>0355638808</phonenumbers>
+    <mst>12345678</mst>
+</company>
+
